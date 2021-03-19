@@ -7,7 +7,7 @@ django-filter==2.3.0
 django-tables2==2.3.1
 django-webpack-loader==0.7.0
 django-widget-tweaks==1.4.8
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 ipython==7.16.1
 ipython-genutils==0.2.0
 jedi==0.17.2
