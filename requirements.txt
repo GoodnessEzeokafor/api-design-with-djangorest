@@ -18,7 +18,7 @@ Pillow==7.2.0
 prompt-toolkit==3.0.5
 ptyprocess==0.6.0
 pydotplus==2.0.2
-Pygments==2.6.1
+Pygments==2.7.4
 pyparsing==2.4.7
 pytz==2020.1
 selenium==3.141.0
