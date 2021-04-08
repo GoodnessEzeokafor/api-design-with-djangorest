@@ -1,6 +1,6 @@
 backcall==0.2.0
 decorator==4.4.2
-Django==2.2
+Django==2.2.20
 django-debug-toolbar==2.2
 django-extensions==3.0.3
 django-filter==2.3.0
